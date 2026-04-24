@@ -1,0 +1,14 @@
+{
+  "name": "discord-bot-iraq-style",
+  "version": "1.1.0",
+  "description": "Arabic Discord bot inspired by Iraq Bot style commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.6.1"
+  }
+}
